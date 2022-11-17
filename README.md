@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anujith Attipetty</h1>
+
+I am a Software Engineer who is passionate about taking new challenges in Software Development. I believe one of the many benefits being a software developer is the ever ending learning involved. I would like to learn and work with any technology that comes up to me. I have had the opportunity to work with various prestigious companies and various precious customers all around the world !
+
 - 💬 Ask me about **Angular, Java, Spring, Docker, Microservices**
 
 - 📫 How to reach me **anujith2008@gmail.com**
